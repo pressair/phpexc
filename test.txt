@@ -1,0 +1,7 @@
+Array
+(
+[0] => Hello World. Testing testing!
+[1] => Another day, another line.
+[2] => If the array picks up this line,
+[3] => then is it a pickup line?
+)
